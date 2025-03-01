@@ -21,15 +21,15 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tirthaboss" alt="tirthaboss" /></a> </p>
 
-- 🔭 I’m currently working on [Chemistry-Bad](https://github.com/Tirthaboss/chemistry-bad.git)
+- 🔭 I’m currently working on [Chemistry-Bad](https://github.com/Tirthaboss/chemistry-bad/#readmr)
 
 - 🌱 I’m currently learning **D.S.A and python in advance**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Tirthaboss/#readme](https://github.com/Tirthaboss/#readme)
+- 👨‍💻 All of my projects are available at [Tirthaboss 😍😍](https://github.com/Tirthaboss/#readme)
 
 - 💬 Ask me about **HTML, CSS and JavaScript etc...**
 
-- 📫 How to reach me **soupornochakraborty40@gmail.com**
+- 📫 How to reach me **[Email](soupornochakraborty40@gmail.com**
 
 - ⚡ Fun fact **I am a photographer and video editor.**
 
